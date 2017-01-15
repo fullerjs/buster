@@ -1,0 +1,23 @@
+{
+  "name": "fuller-buster",
+  "version": "0.3.0",
+  "license": "MIT",
+  "description": "Fuller tool: cache buster tool",
+  "keywords": [
+    "js",
+    "fuller",
+    "build",
+    "cache",
+    "bust",
+    "automation"
+  ],
+  "author": "Alexey Novikov (http://2dubs.com)",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fullerjs/buster.git"
+  },
+  "main": ".index",
+  "dependencies": {
+    "micromatch": "^2.3.11"
+  }
+}
